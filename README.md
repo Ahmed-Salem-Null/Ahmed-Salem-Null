@@ -31,9 +31,7 @@ Full Stack Developer and Software Engineer
 
 ## 🛠️ Languages and Tools
 
-![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,laravel,jquery,androidstudio,react,angular,dart,flutter,wordpress,mysql,git,github,figma)
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,angular,api,atom,codepen,css,gitlab,github,git,flutter,firebase,figma,docker,dart,herd,html,jquery,laravel,less,postgresql,php,opensource,mysql,react,sass,slack,sqlserver,swift,gradle,gcp,wordpress,heroku,nextjs)
+![Languages and Tools](https://go-skill-icons.vercel.app/api/icons?i=android,androidstudio,angular,api,atom,codepen,css,gitlab,github,git,flutter,firebase,figma,docker,dart,herd,html,jquery,laravel,less,postgresql,php,opensource,mysql,react,sass,slack,sqlserver,swift,gradle,gcp,wordpress,heroku,nextjs)
 
 ---
 
