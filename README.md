@@ -3,8 +3,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://about.me/AhmedmSalem" target="_blank">
-<img src=https://img.shields.io/badge/about.me-%231E77B5.svg?&style=for-the-badge&logo=about.me&logoColor=white alt=about.me style="margin-bottom: 5px;" />
+<a href="https://about.me/AhmedmSalem" target="_blank"><img src=https://img.shields.io/badge/about.me-%231E77B5.svg?&style=for-the-badge&logo=about.me&logoColor=white alt=about.me style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.twitter.com/AhmedSalem_Mask" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -35,7 +34,7 @@ Full Stack Developer and Software Engineer
 
 ## 🛠️ Languages and Tools
 
-![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,laravel,jquery,androidstudio,react,angular,dart,flutter,swift,wordpress,postgres,mongodb,git,github,figma)
+![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,laravel,jquery,androidstudio,react,angular,dart,flutter,wordpress,sql,git,github,figma)
 
 ---
 
