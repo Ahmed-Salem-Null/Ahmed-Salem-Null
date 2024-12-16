@@ -39,4 +39,6 @@ Full Stack Developer,Software Engineer
 <br/>  
 
 ## Github Stats 
+![Ahmed-Salem-Null's Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Salem-Null&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![Ahmed-Salem-Null's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Salem-Null&theme=vue-dark&hide_border=false)
+![Ahmed-Salem-Null's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Salem-Null&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
