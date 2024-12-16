@@ -31,7 +31,7 @@ Full Stack Developer,Software Engineer
 
 ## 🛠️ Languages and Tools
 
-![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,laravel,phpstorm,less,sass,jquery,bootstrap,windicss,tailwindcss,threejs,redux,materialui,nextjs,mysql,postgresql,sqlite,mongodb,angular,react,dart,kotlin,flutter,github,gitlab,gradle,git,markdown,figma,firebase,wordpress,androidstudio,atom,heroku,idea,eclipse,ubuntu,docker,aws,gcp,stackoverflow,devto,mastodon,codepen,webflow,webstorm&theme=light&perline=16)](https://skillicons.dev)
+![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,laravel,phpstorm,less,sass,jquery,bootstrap,windicss,tailwindcss,threejs,redux,materialui,nextjs,mysql,postgresql,sqlite,mongodb,angular,react,dart,kotlin,flutter,github,gitlab,gradle,git,markdown,figma,firebase,wordpress,androidstudio,atom,heroku,idea,eclipse,ubuntu,docker,aws,gcp,stackoverflow,devto,mastodon,codepen,webflow,webstorm&theme=light&perline=16)
 
 
 ---
