@@ -32,9 +32,8 @@ Full Stack Developer and Software Engineer
 
 ## 🛠️ Languages and Tools
 
-![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,androidstudio,react,angular,atom,postgres,mongodb,git,github,bitbucket,cloudflare,dart,figma,flutter,jquery,laravel,swift,wordpress)
+![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,,laravel,jquery,androidstudio,react,angular,dart,flutter,swift,,wordpress,postgres,mongodb,git,github,figma)
 
 ---
 
 <br/>  
-
