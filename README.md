@@ -33,7 +33,7 @@ Full Stack Developer,Software Engineer
 
 ![Languages and Tools](https://go-skill-icons.vercel.app/api/icons?i=html,css,php,less,sass,jquery,javascript,chartjs,mysql,postgresql,sqlserver,nextjs,android,angular,flutter,dart,react,swift,laravel,github,git,gradle,api,firebase,androidstudio,herd,figma,docker,atom,slack,heroku,wordpress,opensource,devto)
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,laravel,phpstorm,less,sass,jquery,bootstrap,windicss,tailwindcss,threejs,redux,materialui,nextjs,mysql,postgresql,sqlite,mongodb,angular,react,dart,kotlin,flutter,github,gitlab,gradle,git,markdown,figma,firebase,wordpress,androidstudio,atom,heroku,idea,eclipse,ubuntu,docker,aws,gcp,stackoverflow,devto,mastodon,codepen,webflow,webstorm&theme=light&perline=16)](https://skillicons.dev)
 
 ---
 
