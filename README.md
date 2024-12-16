@@ -26,7 +26,7 @@
 
 
 ### About me!  
-Full Stack Developer and Software Engineer
+Full Stack Developer,Software Engineer
 <br/>  
 
 ## 🛠️ Languages and Tools
