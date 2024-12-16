@@ -1,5 +1,9 @@
+Hi 👋, I'm Ahmed Salem
+Full Stack Developer, Software Engineer<br/> 
+ahmedsalem@africamail.com
+<br/>   
 ## I'm Ahmed Salem
-Full Stack Developer,Software Engineer<br/> 
+Full Stack Developer,Software Engineer
 ahmedsalem@africamail.com
 <br/>    
 
