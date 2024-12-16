@@ -39,6 +39,4 @@ Full Stack Developer,Software Engineer
 <br/>  
 
 ## Github Stats 
-[![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Ahmed-Salem-Null?cardType=github&theme=buefy&preferLogin=false)](https://git.io/awesome-stats-card)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Salem-Null&theme=default&show_icons=true&hide_border=true&count_private=true)
