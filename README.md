@@ -1,16 +1,40 @@
-## Hi there 👋
+## I'm Ahmed Salem
+  
 
-<!--
-**Ahmed-Salem-Null/Ahmed-Salem-Null** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me  
+<div align="center">
+<a href="https://www.twitter.com/AhmedSalem_Mask" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/ahmedsalem_mask" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/Ahmed-Salem-Null" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/8392685/ahmed-salem" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/ahmedmohamedsalem" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="http://instagram.com/ahmedsalem_mask" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About me!  
+Full Stack Developer and Software Engineer
+<br/>  
+
+## 🛠️ Languages and Tools
+
+![Languages and Tools](https://skillicons.dev/icons?i=html,css,javascript,php,androidstudio,react,angular,atom,postgres,mongodb,git,github,java,bitbucket,cloudflare,dart,figma,flutter,jquery,laravel,swift,wordpress)
+
+---
+
+<br/>  
+
