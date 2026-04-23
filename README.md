@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Ahmed Salem
-Full Stack Developer, Software Engineer<br/>     
+Software Engineer, Gamer, Tech Enthusiast, Professional Wrestling Fanatic.<br/>     
 
 ## Connect with me  
 <div align="center">
