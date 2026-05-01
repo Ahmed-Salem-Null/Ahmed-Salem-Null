@@ -1,4 +1,4 @@
-## Hi 👋, I'm Ahmed Salem
+## Hi, I'm Ahmed Salem
 Software Engineer, Gamer, Tech Enthusiast, Professional Wrestling Fanatic.<br/>     
 
 ## Connect with me  
