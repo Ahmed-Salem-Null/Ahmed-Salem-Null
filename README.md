@@ -3,7 +3,7 @@ Software Engineer, Gamer, Tech Enthusiast, Professional Wrestling Fanatic.<br/>
 
 ## Connect with me  
 <div align="center">
-<a href="mailto:ahmedsalem@africamail.com" target="_blank">
+<a href="mailto:ahmedsalem@technologist.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%231E77B5.svg?&style=for-the-badge&logo=email&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>
 <a href="https://about.me/AhmedmSalem" target="_blank"><img src=https://img.shields.io/badge/about.me-%231E77B5.svg?&style=for-the-badge&logo=about.me&logoColor=white alt=about.me style="margin-bottom: 5px;" />
