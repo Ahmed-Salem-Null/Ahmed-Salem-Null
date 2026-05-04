@@ -31,7 +31,5 @@ Software Engineer, Gamer, Tech Enthusiast, Professional Wrestling Fanatic.<br/>
 
 ![Languages and Tools](https://skillicons.dev/icons?i=html,css,php,laravel,phpstorm,less,sass,jquery,bootstrap,windicss,tailwindcss,redux,materialui,mysql,postgresql,sqlite,mongodb,dart,kotlin,flutter,github,gitlab,gradle,git,markdown,figma,firebase,wordpress,androidstudio,atom,heroku,idea,eclipse,ubuntu,docker,aws,gcp,stackoverflow,devto,mastodon,codepen,webflow,webstorm&theme=light&perline=16)
 
-
-## Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmed-Salem-Null&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
