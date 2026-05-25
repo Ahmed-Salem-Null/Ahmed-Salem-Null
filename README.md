@@ -1,5 +1,5 @@
 ## Hi, I'm Ahmed Salem
-Software Engineer, Gamer, Tech Enthusiast, Professional Wrestling Fanatic.<br/>     
+Software Engineer. Coder by day, Gamer by night, Tech Enthusiast, Professional Wrestling super Fan. #TechInnovator<br/>     
 
 ## Connect with me  
 <div align="center">
