@@ -2,7 +2,7 @@
 Software Engineer. Coder by day, Gamer by night, Tech Enthusiast, Professional Wrestling super Fan. <a class="email" href="https://x.com/AhmedSalem_Mask" target="_blank">#TechInnovator</a><br>
 My journey in the tech world has equipped me with a diverse skill set, allowing me to create impactful software that enhances user experiences.<br><br>
 Worked on more than 320+ projects in the last 19 years on a multitude of web based Projects.
-I put to good use on every project I work on. <br>Beyond coding, I’m continually exploring the latest trends in the tech landscape.<br><br>
+I put to good use on every project I work on. <br><br>Beyond coding, I’m continually exploring the latest trends in the tech landscape.<br><br>
 Highly experienced in:<br>
 - Front-end, Back-end Development.<br>
 - WordPress, Joomla, OpenCart Theme,Plugin Develop.<br>
