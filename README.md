@@ -14,10 +14,9 @@ Highly experienced in:<br>
 - User interface Development.<br>
 - API, SQL integration.<br>
 - Git Workflow Management.<br>
-- Code Review, Documentation.<br><br>
-I'm available freelancing, part-time opportunities.<br/>     
+- Code Review, Documentation.<br>
 
-## Connect with me  
+## Connect me  
 <div align="center">
 <a href="mailto:ahmedsalem@duck.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%231E77B5.svg?&style=for-the-badge&logo=email&logoColor=white alt=email style="margin-bottom: 5px;" />
